@@ -1,3 +1,2 @@
-# LostInTimeAssestShare
-Asset Share
-Created by Neel Pai
+Asset Share for the game that the Nicholas Wharton made 
+@nickggrae
