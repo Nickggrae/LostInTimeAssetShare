@@ -1,3 +1,3 @@
 # LostInTimeAssestShare
 Asset Share
-Created by Neel Pai @neelpi
+Created by Neel Pai
